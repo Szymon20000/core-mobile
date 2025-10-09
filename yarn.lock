@@ -28746,7 +28746,7 @@ react-native-webview@ava-labs/react-native-webview:
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 44ee8c8ebc4dc4d3423e9045e1aebac31829eb518824e24f41b2bd10ab1e8343e824e9d912f259bfec7bfa798e96513cc05dbdcdf36087b2a43806f74a3b0fa2
+  checksum: 8a8650bb2f1bcbcb15fa762843633b7c13e4a40309c2b77a4dc390e77beb6347f124c16361e7df1beab64e078db89e06cadd462352e6e094f0d0ac2f4f5093ff
   languageName: node
   linkType: hard
 
@@ -31402,14 +31402,14 @@ react-native-webview@ava-labs/react-native-webview:
   linkType: hard
 
 "tar-fs@npm:^2.0.0":
-  version: 2.1.1
-  resolution: "tar-fs@npm:2.1.1"
+  version: 2.1.4
+  resolution: "tar-fs@npm:2.1.4"
   dependencies:
     chownr: ^1.1.1
     mkdirp-classic: ^0.5.2
     pump: ^3.0.0
     tar-stream: ^2.1.4
-  checksum: f5b9a70059f5b2969e65f037b4e4da2daf0fa762d3d232ffd96e819e3f94665dbbbe62f76f084f1acb4dbdcce16c6e4dac08d12ffc6d24b8d76720f4d9cf032d
+  checksum: a9e18e2e6114b8ac2568d7c2b42d006b1fe30d83957e4e75ba2361a889c2fc54e54236476782d06494e081358a393feacdf19311df12b3056c8a64dc1f7ed309
   languageName: node
   linkType: hard
 
